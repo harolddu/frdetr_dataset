@@ -1,5 +1,5 @@
 # frdetr_dataset
-a flowchart dataset proposed with FR-DETR (Link to paper)
+a flowchart dataset proposed with FR-DETR ([Link to paper](https://ieeexplore.ieee.org/document/9795274))
 
 the dataset contains flowchart images and labels (annotations.zip) for training (train.zip), validation (val.zip) and testing (test.zip)
 
